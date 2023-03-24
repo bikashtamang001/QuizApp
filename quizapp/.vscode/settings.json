@@ -1,0 +1,6 @@
+{
+    "dart.flutterShowEmulators": "always",
+    "dart.flutterCustomEmulators": [
+    
+    ]
+}
